@@ -40,7 +40,14 @@
 
 
 
-**Following this workflow keeps my commits clean and organized.**
+**Following this workflow keeps my commits clean and organized.
+
+
+## Branching Practice**
+
+**I created a feature branch, made changes, committed them,**
+
+**and merged the branch back into main.**
 
 
 
