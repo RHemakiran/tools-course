@@ -1,4 +1,7 @@
 node_modules/
 .env
 .DS_Store
+dist/
+.env
+ 76eb38f3768132c44551c223329ab56bdb6c6bd9
 *.log
